@@ -8,6 +8,8 @@ Claude skills for working with Autodesk Fusion through the Fusion MCP server.
 |---|---|
 | [`fusion-addin-creator`](fusion-addin-creator/) | Scaffolds a new Fusion add-in from a standard template. |
 | [`fusion-design-practices`](fusion-design-practices/) | Design conventions for modeling, sketching, assemblies and scripting, plus scripts for building a product structure and mirroring components. |
+| [`fusion-issues`](fusion-issues/) | Notes on issues in Fusion behavior. |
+| [`fusion-reference`](fusion-reference/) | Useful reference documents on Fusion capabilities. |
 | [`fusion-ui-setup`](fusion-ui-setup/) | Hides distracting UI panels at the start of a Fusion session, after asking permission. |
 | [`fusion-wcs-orientation`](fusion-wcs-orientation/) | Detects whether a design is Z-up or Y-up and picks the matching sketch plane and extrude axis. |
 
